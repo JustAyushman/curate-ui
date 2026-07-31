@@ -26,7 +26,7 @@ This project represents the realization of a beautiful design concept into funct
 Simply clone this repository and open `index.html` in your favorite web browser. No compilation or installation steps are required!
 
 ```bash
-git clone https://github.com/your-username/curate-ui.git
+git clone https://github.com/JustAyushman/curate-ui.git
 cd curate-ui
 ```
 
